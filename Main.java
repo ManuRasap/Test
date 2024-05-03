@@ -9,8 +9,8 @@ public class Main {
         int num = scanner.nextInt();
 
 
-        int doble = num * 2;
+        int triple = num * 3;
 
-        System.out.println("Double of " + num + " is " + doble);
+        System.out.println("Triple of " + num + " is " + triple);
     }
 }
