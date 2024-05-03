@@ -9,7 +9,7 @@ public class Main {
         int num = scanner.nextInt();
 
 
-        int triple = num * 3;
+        int triple = num * 7;
 
         System.out.println("Triple of " + num + " is " + triple);
     }
